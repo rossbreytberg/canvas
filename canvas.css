@@ -1,0 +1,13 @@
+body {
+  background: #333;
+  color: #fff;
+  margin: 0;
+}
+
+#controls {
+  margin: 8px;
+}
+
+#canvas {
+  margin-left: 8px;
+}
